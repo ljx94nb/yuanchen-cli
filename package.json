@@ -14,7 +14,7 @@
     "lib"
   ],
   "author": {
-    "name": "yuanchen",
+    "name": "ljx94nb",
     "email": "1771224520@qq.com"
   },
   "keywords": [
@@ -32,5 +32,10 @@
     "fs-extra": "^10.0.0",
     "inquirer": "^8.0.0",
     "ora": "^5.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljx94nb/yuanchen-cli.git"
+  },
+  "homepage": "https://github.com/ljx94nb/yuanchen-cli#readme"
 }
